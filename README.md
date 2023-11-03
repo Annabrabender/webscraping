@@ -12,7 +12,9 @@ Within the folder "Notebooks and Analysis" there is a folder "Graphs" with the g
 Analysis:
 
 There are 12 months on mars
+
 The number of unique martian days is 1867
+
 Average minimum temp by month:
 1    -77.160920
 2    -79.932584
@@ -26,6 +28,26 @@ Average minimum temp by month:
 10   -71.982143
 11   -71.985507
 12   -74.451807
+
+Coldest month on Mars: 3
+Warmest month on Mars: 8
+
+Average pressure by month: 1     862.488506
+2     889.455056
+3     877.322917
+4     806.329897
+5     748.557047
+6     745.054422
+7     795.105634
+8     873.829787
+9     913.305970
+10    887.312500
+11    857.014493
+12    842.156627
+
+
+Month with the lowest atmospheric pressure on Mars: 6
+Month with the highest atmospheric pressure on Mars: 9
 
 
 
